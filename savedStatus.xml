@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.4.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="FireAnt" id="FireAnt0">
+    <void property="antType">
+     <string></string>
+    </void>
+    <void property="currentImageIndex">
+     <int>11</int>
+    </void>
+    <void property="dead">
+     <void property="description">
+      <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile023.png</string>
+     </void>
+    </void>
+    <void property="images">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile000.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile001.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile002.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile003.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile004.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile005.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile006.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile007.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile008.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile009.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile010.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile011.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile012.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile013.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile014.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile015.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile016.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile017.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile018.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile019.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile020.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile021.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile022.png</string>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="wavelength">
+     <int>9</int>
+    </void>
+    <void property="x">
+     <int>106</int>
+    </void>
+    <void property="y">
+     <int>-30</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="NormalAnt" id="NormalAnt0">
+    <void property="antType">
+     <string></string>
+    </void>
+    <void property="currentImageIndex">
+     <int>10</int>
+    </void>
+    <void property="dead">
+     <void property="description">
+      <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile023.png</string>
+     </void>
+    </void>
+    <void property="images">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile000.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile001.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile002.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile003.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile004.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile005.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile006.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile007.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile008.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile009.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile010.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile011.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile012.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile013.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile014.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile015.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile016.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile017.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile018.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile019.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile020.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile021.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile022.png</string>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="wavelength">
+     <int>10</int>
+    </void>
+    <void property="x">
+     <int>358</int>
+    </void>
+    <void property="y">
+     <int>90</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="NormalAnt" id="NormalAnt1">
+    <void property="antType">
+     <string></string>
+    </void>
+    <void property="currentImageIndex">
+     <int>12</int>
+    </void>
+    <void property="dead">
+     <void property="description">
+      <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile023.png</string>
+     </void>
+    </void>
+    <void property="images">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile000.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile001.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile002.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile003.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile004.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile005.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile006.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile007.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile008.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile009.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile010.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile011.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile012.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile013.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile014.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile015.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile016.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile017.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile018.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile019.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile020.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile021.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile022.png</string>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="wavelength">
+     <int>5</int>
+    </void>
+    <void property="x">
+     <int>278</int>
+    </void>
+    <void property="y">
+     <int>195</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="NormalAnt" id="NormalAnt2">
+    <void property="antType">
+     <string></string>
+    </void>
+    <void property="currentImageIndex">
+     <int>15</int>
+    </void>
+    <void property="dead">
+     <void property="description">
+      <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile023.png</string>
+     </void>
+    </void>
+    <void property="images">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile000.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile001.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile002.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile003.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile004.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile005.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile006.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile007.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile008.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile009.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile010.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile011.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile012.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile013.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile014.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile015.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile016.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile017.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile018.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile019.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile020.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile021.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\ants\tile022.png</string>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="wavelength">
+     <int>8</int>
+    </void>
+    <void property="x">
+     <int>186</int>
+    </void>
+    <void property="y">
+     <int>295</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="FireAnt" id="FireAnt1">
+    <void property="antType">
+     <string></string>
+    </void>
+    <void property="currentImageIndex">
+     <int>17</int>
+    </void>
+    <void property="dead">
+     <void property="description">
+      <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile023.png</string>
+     </void>
+    </void>
+    <void property="images">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile000.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile001.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile002.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile003.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile004.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile005.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile006.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile007.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile008.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile009.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile010.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile011.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile012.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile013.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile014.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile015.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile016.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile017.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile018.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile019.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile020.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile021.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile022.png</string>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="wavelength">
+     <int>2</int>
+    </void>
+    <void property="x">
+     <int>56</int>
+    </void>
+    <void property="y">
+     <int>515</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="FireAnt" id="FireAnt2">
+    <void property="antType">
+     <string></string>
+    </void>
+    <void property="currentImageIndex">
+     <int>8</int>
+    </void>
+    <void property="dead">
+     <void property="description">
+      <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile023.png</string>
+     </void>
+    </void>
+    <void property="images">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile000.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile001.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile002.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile003.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile004.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile005.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile006.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile007.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile008.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile009.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile010.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile011.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile012.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile013.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile014.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile015.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile016.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile017.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile018.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile019.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile020.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile021.png</string>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.ImageIcon">
+        <string>C:\Users\Amanlab02\Downloads\FizaHussain_26749_Lab09\Lab 09\src\fireant\fireant\tile022.png</string>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="x">
+     <int>567</int>
+    </void>
+    <void property="y">
+     <int>560</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
